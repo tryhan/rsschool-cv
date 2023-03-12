@@ -15,6 +15,7 @@ My main task is to acquire the necessary skills to perform any tasks in Front-En
 * Java script -basics
 * Git
 * Figma
+* VS code
 ## Code Example 
 ``` 
 function name(){
@@ -33,4 +34,5 @@ link: https://ggkttd.by/
 * Russian
 * Belarussian
 * English (A2, I study and practice English)
+## 
 
